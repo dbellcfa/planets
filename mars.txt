@@ -1,8 +1,9 @@
-cold and dry but everything is my favorite color!
-the two moons might be a problem for Wolfman
+Cold and dry but everything is my favorite color!
+The two moons might be a problem for Wolfman.
 (fortunately they're pretty tiny, though)
 
-this line is added cracefully
+This line is added gracefully.
+
 
 
 Nadine's change.
@@ -11,4 +12,6 @@ changing agai
 
 number threen
 here's Dave's last line
+
+here's Dave's new last line
 
